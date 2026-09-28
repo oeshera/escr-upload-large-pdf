@@ -167,3 +167,8 @@ Temporary failures (timeouts, server errors, HTTP 429) are retried up to `--retr
 | `requirements.txt` | Python dependencies (`pyvips`, `requests`) |
 | `.env.example` | template for your `.env` |
 | `.gitignore` | keeps `.env*` and `.venv/` out of git |
+| `LICENSE` | The Unlicense (public domain) |
+
+## License
+
+Public domain, via [The Unlicense](https://unlicense.org/): use, copy, modify and redistribute it for any purpose, no attribution required. See [`LICENSE`](LICENSE).
